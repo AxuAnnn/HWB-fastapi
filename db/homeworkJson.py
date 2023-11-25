@@ -1,4 +1,4 @@
-homework = {
+homework_list = {
   "ntue": {
     "112-1": [
       {
